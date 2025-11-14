@@ -11,13 +11,13 @@ It implements a fully working Hangman Game in MASM Assembly using the Irvine32 l
 
 The game demonstrates low-level concepts including:
 
-Manual memory handling
-Register operations
-String processing
-Console I/O using interrupts
-Logical gameplay implementation
+. Manual memory handling
+. Register operations
+. String processing
+. Console I/O using interrupts
+. Logical gameplay implementation
 
-🔍 Features at a Glance
+🔍 Features at a Glance:
 
 🔤 Single-letter guessing
 ❌ Six incorrect attempts allowed
