@@ -10,6 +10,7 @@ This project is my semester project for COAL (Computer Organization and Assembly
 It implements a fully working Hangman Game in MASM Assembly using the Irvine32 library.
 
 The game demonstrates low-level concepts including:
+
 Manual memory handling
 Register operations
 String processing
@@ -17,6 +18,7 @@ Console I/O using interrupts
 Logical gameplay implementation
 
 🔍 Features at a Glance
+
 🔤 Single-letter guessing
 ❌ Six incorrect attempts allowed
 ✔️ Real-time letter reveal
