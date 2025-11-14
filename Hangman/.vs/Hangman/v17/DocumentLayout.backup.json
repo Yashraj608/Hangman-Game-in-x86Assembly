@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yashm\\source\\repos\\Hangman\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14708A49-B913-4935-B8A5-FE88E8B20913}|Hangman\\Hangman.vcxproj|C:\\Users\\yashm\\source\\repos\\Hangman\\Hangman\\Hangman.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{14708A49-B913-4935-B8A5-FE88E8B20913}|Hangman\\Hangman.vcxproj|solutionrelative:Hangman\\Hangman.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hangman.asm",
+              "DocumentMoniker": "C:\\Users\\yashm\\source\\repos\\Hangman\\Hangman\\Hangman.asm",
+              "RelativeDocumentMoniker": "Hangman\\Hangman.asm",
+              "ToolTip": "C:\\Users\\yashm\\source\\repos\\Hangman\\Hangman\\Hangman.asm*",
+              "RelativeToolTip": "Hangman\\Hangman.asm*",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAHcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-14T18:19:51.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
