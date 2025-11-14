@@ -20,19 +20,3 @@ The game demonstrates low-level concepts including:
 . Console I/O using interrupts
 
 . Logical gameplay implementation
-
-🔍 Features at a Glance:
-
-🔤 Single-letter guessing
-
-❌ Six incorrect attempts allowed
-
-✔️ Real-time letter reveal
-
-🔁 Detects repeated guesses
-
-👤 ASCII hangman drawing
-
-💬 Win/Lose messages
-
-⚙️ Built 100% in Assembly
